@@ -1,0 +1,5 @@
+{
+    "require": {
+        "components/angular.js": "^1.3"
+    }
+}
